@@ -1,4 +1,5 @@
 date,session_count_cardio,total_minutes_cardio,cardio_total_km,cardio_avg_hr,activity_types,hr_zone_1_mins,hr_zone_2_mins,hr_zone_3_mins,hr_zone_4_mins,hr_zone_5_mins
+2026-05-07,1,48.6,0.0,117.4,WeightTraining,10.6,9.8,4.4,1.1,0.6
 2026-05-06,1,45.1,0.0,140.1,StairStepper,0.6,1.6,14.6,0.3,
 2026-05-05,3,169.0,25.35,142.1,Ride|StairStepper|WeightTraining,13.8,19.4,20.2,50.0,31.9
 2026-05-04,1,60.8,0.0,108.2,WeightTraining,18.0,8.3,2.8,0.2,
