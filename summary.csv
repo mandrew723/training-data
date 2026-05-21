@@ -1,4 +1,5 @@
 date,session_count_cardio,total_minutes_cardio,cardio_total_km,cardio_avg_hr,activity_types,hr_zone_1_mins,hr_zone_2_mins,hr_zone_3_mins,hr_zone_4_mins,hr_zone_5_mins
+2026-05-21,1,67.8,0.0,133.3,WeightTraining,3.0,13.2,17.6,2.2,
 2026-05-19,2,101.3,0.0,113.3,WeightTraining,30.4,19.2,5.4,0.7,
 2026-05-16,1,605.6,49.06,125.5,Run,189.7,255.4,201.1,16.9,
 2026-05-14,1,43.1,0.0,116.1,WeightTraining,10.4,9.6,3.0,1.2,0.0
