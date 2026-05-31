@@ -1,4 +1,9 @@
 date,workout_title,exercise_title,total_sets,total_reps,max_weight_kg,avg_weight_kg,total_volume_kg
+2026-05-31,Afternoon workout 💪,Squat (Barbell),5,30,115.66619190608813,102.1,2857.6353294445303
+2026-05-31,Afternoon workout 💪,Romanian Deadlift (Barbell),4,32,102.05840462301894,102.1,3265.868947936606
+2026-05-31,Afternoon workout 💪,Standing Calf Raise (Machine),3,30,40.82336184920758,40.8,1224.7008554762274
+2026-05-31,Afternoon workout 💪,Leg Extension (Machine),3,36,61.235042773811365,61.2,2204.461539857209
+2026-05-31,Afternoon workout 💪,Lying Leg Curl (Machine),4,32,56.69911367945497,56.7,1814.371637742559
 2026-05-21,Morning workout ☀️,Goblet Squat,3,36,20.41168092460379,20.4,734.8205132857365
 2026-05-21,Morning workout ☀️,Incline Bench Press (Dumbbell),3,30,22.67964547178199,22.7,680.3893641534596
 2026-05-21,Morning workout ☀️,Dumbbell Row,3,30,29.483539113316585,29.5,884.5061733994976
