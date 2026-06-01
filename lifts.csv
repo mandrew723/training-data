@@ -1,4 +1,9 @@
 date,workout_title,exercise_title,total_sets,total_reps,max_weight_kg,avg_weight_kg,total_volume_kg
+2026-06-01,Morning workout ☀️,Bench Press (Barbell),7,40,88.45061733994974,82.0,3175.150366049478
+2026-06-01,Morning workout ☀️,Overhead Press (Barbell),3,24,45.35929094356398,43.8,1052.3355498906842
+2026-06-01,Morning workout ☀️,Skullcrusher (Barbell),3,31,18.14371637742559,18.1,562.4552077001933
+2026-06-01,Morning workout ☀️,Incline Bench Press (Dumbbell),4,33,24.947610018960187,22.7,764.304052399053
+2026-06-01,Morning workout ☀️,Lateral Raise (Dumbbell),3,32,9.071858188712795,8.3,263.08388747267105
 2026-05-31,Afternoon workout 💪,Squat (Barbell),5,30,115.66619190608813,102.1,2857.6353294445303
 2026-05-31,Afternoon workout 💪,Romanian Deadlift (Barbell),4,32,102.05840462301894,102.1,3265.868947936606
 2026-05-31,Afternoon workout 💪,Standing Calf Raise (Machine),3,30,40.82336184920758,40.8,1224.7008554762274
