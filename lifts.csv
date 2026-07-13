@@ -1,4 +1,9 @@
 date,workout_title,exercise_title,total_sets,total_reps,max_weight_kg,avg_weight_kg,total_volume_kg
+2026-07-13,Afternoon workout 💪,Incline Bench Press (Barbell),4,22,83.91468824559335,77.1,1691.9015521949364
+2026-07-13,Afternoon workout 💪,Dumbbell Row,4,28,34.01946820767298,33.5,936.669357984596
+2026-07-13,Afternoon workout 💪,Chest Fly (Dumbbell),4,28,13.607787283069193,13.6,381.0180439259374
+2026-07-13,Afternoon workout 💪,Lat Pulldown (Machine),3,30,77.11079460405875,77.1,2313.3238381217625
+2026-07-13,Afternoon workout 💪,Decline Crunch (Weighted),3,20,11.339822735890994,6.8,124.73805009480094
 2026-07-09,Evening workout 🏋️,Squat (Barbell),4,20,92.98654643430615,85.0,1700.973410383649
 2026-07-09,Evening workout 🏋️,Incline Bench Press (Dumbbell),5,28,29.483539113316585,27.2,748.4283005688056
 2026-07-09,Evening workout 🏋️,Romanian Deadlift (Barbell),3,24,61.235042773811365,61.2,1469.6410265714728
