@@ -1,5 +1,5 @@
 date,session_count_cardio,total_minutes_cardio,cardio_total_km,cardio_avg_hr,activity_types,hr_zone_1_mins,hr_zone_2_mins,hr_zone_3_mins,hr_zone_4_mins,hr_zone_5_mins
-2026-07-25,1,30.4,2.33,116.2,Hike,2.0,6.0,,,
+2026-07-25,2,91.9,5.66,105.05000000000001,Hike|StandUpPaddling,25.2,6.5,,,
 2026-07-24,2,77.1,12.3,159.4,Run,1.1,1.0,14.2,48.7,12.2
 2026-07-23,3,127.3,12.29,146.43333333333334,Run|WeightTraining,1.6,3.5,20.7,53.8,5.7
 2026-07-22,1,10.3,0.0,136.4,Rowing,0.4,1.0,2.8,,
