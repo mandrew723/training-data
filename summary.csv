@@ -1,4 +1,5 @@
 date,session_count_cardio,total_minutes_cardio,cardio_total_km,cardio_avg_hr,activity_types,hr_zone_1_mins,hr_zone_2_mins,hr_zone_3_mins,hr_zone_4_mins,hr_zone_5_mins
+2026-08-13,1,240.2,19.44,157.9,Run,0.9,7.6,72.9,179.4,31.3
 2026-08-12,3,117.9,6.470000000000001,109.83333333333333,Hike|Swim,33.9,7.2,2.1,0.2,
 2026-08-11,1,61.0,10.2,159.8,Run,0.4,0.3,9.6,42.0,8.8
 2026-08-09,2,503.5,25.080000000000002,136.85,Hike|Run,121.2,48.5,13.7,42.9,23.5
