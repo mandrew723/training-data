@@ -1,4 +1,5 @@
 date,session_count_cardio,total_minutes_cardio,cardio_total_km,cardio_avg_hr,activity_types,hr_zone_1_mins,hr_zone_2_mins,hr_zone_3_mins,hr_zone_4_mins,hr_zone_5_mins
+2026-08-30,1,150.2,23.11,155.4,Run,0.4,2.3,40.8,104.3,2.4
 2026-08-29,1,117.3,16.35,152.7,Run,0.4,1.4,52.6,61.8,1.3
 2026-08-28,2,54.4,2.04,135.55,Walk|Workout,1.7,8.6,9.1,6.5,0.6
 2026-08-27,2,76.7,12.96,145.1,Run,1.2,7.0,49.5,19.3,
