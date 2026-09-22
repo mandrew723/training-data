@@ -1,4 +1,5 @@
 date,session_count_cardio,total_minutes_cardio,cardio_total_km,cardio_avg_hr,activity_types,hr_zone_1_mins,hr_zone_2_mins,hr_zone_3_mins,hr_zone_4_mins,hr_zone_5_mins
+2026-09-22,1,32.0,5.33,145.0,Run,1.8,2.8,15.8,11.6,
 2026-09-21,1,36.8,6.01,141.0,Run,1.1,4.2,29.2,2.4,
 2026-09-20,1,110.4,4.95,109.9,StandUpPaddling,27.0,11.9,1.6,,
 2026-09-19,1,331.4,39.67,157.0,Run,2.2,11.4,114.6,137.8,65.4
